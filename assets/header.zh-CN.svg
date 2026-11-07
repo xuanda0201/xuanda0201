@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+<title>轩大 · xuanda — Following my curiosity.</title>
+<desc>Emerald geometric frames accompany xuanda's personal introduction: turn curiosity into things people can use.</desc>
+<rect width="1600" height="500" fill="#0b1210"/>
+<path d="M70 66H1530M70 434H1530" stroke="#293e34"/>
+<g font-family="Helvetica Neue,Arial,sans-serif">
+<text x="74" y="112" font-size="18" letter-spacing="3" fill="#9ab1a4">轩大 / XUANDA0201</text>
+<text x="68" y="251" font-size="118" font-weight="650" letter-spacing="-6" fill="#eff3e9">xuanda<tspan fill="#00c89b">.</tspan></text>
+<text x="74" y="316" font-size="34" fill="#eff3e9">Following my curiosity.</text>
+<text x="74" y="369" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="29" fill="#9ab1a4">把好奇心，做成能用的东西。</text>
+<text x="74" y="472" font-size="16" letter-spacing="3" fill="#9ab1a4">AI AGENTS / USEFUL TOOLS / GAMES</text>
+<text x="1528" y="472" text-anchor="end" font-size="16" letter-spacing="3" fill="#00c89b">EXPLORE → BUILD → SHARE</text>
+</g>
+<g fill="none" stroke-width="2">
+<path d="M1135 118H1305L1365 178V348H1195L1135 288Z" stroke="#2c4d3e"/>
+<path d="M1075 152H1245L1305 212V382H1135L1075 322Z" stroke="#47715b"/>
+<path d="M1015 186H1185L1245 246V416H1075L1015 356Z" fill="#10291f" stroke="#00c89b"/>
+<path d="M1075 301H1185M1130 246V356" stroke="#00c89b"/>
+</g>
+<circle cx="1130" cy="301" r="10" fill="#00c89b"/>
+<path d="M1417 118H1473V174" stroke="#00c89b" stroke-width="3" fill="none"/>
+</svg>

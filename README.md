@@ -1,64 +1,64 @@
+<p align="center"><strong>English</strong> · <a href="https://github.com/xuanda0201/xuanda0201/blob/main/README.zh-CN.md">简体中文</a></p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xuanda0201/xuanda0201/main/assets/header.png" alt="轩大 · xuanda — Following my curiosity. 把好奇心，做成能用的东西。" width="100%" />
+  <img src="https://raw.githubusercontent.com/xuanda0201/xuanda0201/main/assets/header.png" alt="xuanda — Following my curiosity. Turning curiosity into useful things." width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/hutian-ai"><strong>hutian</strong></a> ·
   <a href="https://github.com/hutian-ai/harness-dock">Harness Dock</a> ·
-  <a href="https://github.com/xuanda0201/civ6-mods">文明 6 Mods</a>
+  <a href="https://github.com/xuanda0201/civ6-mods">Civilization VI Mods</a>
 </p>
 
-### 你好，我是轩大 👋
+### Hi, I'm xuanda 👋
 
-关注 **AI Agent、人与 AI 的协作，以及游戏里的自动化**。喜欢从自己的实际需求出发，把一个想法做成能运行、能体验、能继续改进的小作品。
+I build around **AI agents, human–AI collaboration, and automation in games**. I like starting with something I need and turning it into a small project I can run, use, and keep improving.
 
-正在 [@hutian-ai](https://github.com/hutian-ai) 构建工具与产品，探索让 AI 角色参与真实项目，并留下可继续使用的资料、经验与成果。
+At [@hutian-ai](https://github.com/hutian-ai), I'm exploring how persistent AI roles can contribute to real projects and build on the knowledge, experience, and work they leave behind.
 
-*I follow my curiosity by building useful tools — for AI agents, human-directed collaboration, and games.*
-
-### 最近在做
+### What I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 界舟 · Harness Dock
+#### Jiezhou · Harness Dock
 
-让原生 Harness，为你的产品执行任务。
+Let native agent harnesses run tasks for your product.
 
-连接获授权的设备，复用已有的原生环境，接回进度、审批与产物。
+Connect authorized devices, reuse their native environments, and receive progress, approvals, and artifacts.
 
 `TypeScript` · `SDK` · `Self-hosted`
 
-**已公开 · Developer Alpha**
+**Public · Developer Alpha**
 
-[源码 →](https://github.com/hutian-ai/harness-dock)　[文档 →](https://hutian-ai.github.io/harness-dock/)
+[Source →](https://github.com/hutian-ai/harness-dock)　[Docs →](https://hutian-ai.github.io/harness-dock/)
 
 </td>
 <td width="50%" valign="top">
 
-#### 文明 6 · Mods
+#### Civilization VI · Mods
 
-把重复操作交给工具，把注意力留给决策。
+Automate the repetition. Keep the decisions.
 
-城市项目续建、间谍循环、建造者作业、巨作整理和沿途铁路等小工具。
+Small tools for recurring city projects, spy missions, builder work, Great Works organization, and rail construction.
 
 `Lua` · `Civilization VI` · `Automation`
 
-**已公开 · 预览版，待实机验证**
+**Public · Preview, awaiting in-game validation**
 
-[源码与下载 →](https://github.com/xuanda0201/civ6-mods)　[安装说明 →](https://github.com/xuanda0201/civ6-mods/blob/main/INSTALL.md)
+[Source & downloads →](https://github.com/xuanda0201/civ6-mods)　[Installation →](https://github.com/xuanda0201/civ6-mods/blob/main/INSTALL.md)
 
 </td>
 </tr>
 </table>
 
-### 继续探索
+### Exploring what's next
 
-**hutian** 是正在推进的长期方向：一个让持续角色与人共同工作的世界。Web 工作台还在本地开发中，当前可体验的公开成果从 Harness Dock 开始。
+**hutian** is the longer-term direction: a shared world where people work with persistent AI roles. The Web workspace is in local development; Harness Dock is the public starting point you can try today.
 
-我更愿意让项目在真实使用中逐步长大：先解决一个具体问题，留下能用的成果，再继续下一步。也欢迎带着实际使用场景，在 [Harness Dock](https://github.com/hutian-ai/harness-dock/issues) 或 [文明 6 Mods](https://github.com/xuanda0201/civ6-mods/issues) 中交流。
+I like growing projects through real use: solve a concrete problem, ship something useful, then take the next step. If you have a use case or feedback, join the conversation in [Harness Dock](https://github.com/hutian-ai/harness-dock/issues) or [Civilization VI Mods](https://github.com/xuanda0201/civ6-mods/issues).
 
 ---
 
-<p align="center"><sub>好奇 → 动手 → 用起来 → 再改进</sub></p>
+<p align="center"><sub>Explore → Build → Use → Improve</sub></p>
