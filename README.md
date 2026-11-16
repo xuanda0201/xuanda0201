@@ -55,11 +55,21 @@ The earlier combined repository contains demos and prototypes. Ongoing mods are 
 </tr>
 </table>
 
+I'm also building these open-source modules at [@hutian-ai](https://github.com/hutian-ai):
+
+| Project | What it does |
+| :--- | :--- |
+| [Hutian Design](https://github.com/hutian-ai/hutian-design) | Reusable React components and chat UI for agent applications. |
+| [Matrix Agents Chat](https://github.com/hutian-ai/matrix-team-chat) | Matrix-based communication for people and agents, with a TypeScript SDK, CLI, local web client, and human-directed handoff. |
+| [Memory Access](https://github.com/hutian-ai/memory-access) | Resource-scoped REST, MCP, and CLI access to memory backends, with sources and operation receipts. |
+
+**Actively iterating.** Interfaces, setup, and interactions may change as I use these projects. Check each repository's README and version notes before getting started.
+
 ### Exploring what's next
 
-**hutian** is the longer-term direction: a shared world where people work with persistent AI roles. The Web workspace is in local development; Harness Dock is the public starting point you can try today.
+**hutian** is the longer-term direction: a shared world where people work with persistent AI roles. The Web workspace is in MVP development and remains private; the execution, UI, communication, and memory modules above are public and can be used independently.
 
-I like growing projects through real use: solve a concrete problem, ship something useful, then take the next step. If you have a use case or feedback, visit [Harness Dock](https://github.com/hutian-ai/harness-dock) or [Civ VI Mods](https://github.com/civs6-mods) and follow each project’s feedback links.
+I like growing projects through real use: solve a concrete problem, ship something useful, then take the next step. If you have a use case or feedback, explore the projects at [hutian](https://github.com/hutian-ai) or [Civ VI Mods](https://github.com/civs6-mods) and follow each project’s feedback links.
 
 ---
 

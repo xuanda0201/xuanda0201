@@ -57,11 +57,21 @@
 </tr>
 </table>
 
+也在 [@hutian-ai](https://github.com/hutian-ai) 持续完善这些已开源的模块：
+
+| 项目 | 用来做什么 |
+| :--- | :--- |
+| [Hutian Design](https://github.com/hutian-ai/hutian-design) | 为 Agent 应用复用 React 基础组件与聊天交互。 |
+| [Matrix Agents Chat](https://github.com/hutian-ai/matrix-team-chat) | 基于 Matrix 连接人与 Agent，提供 TypeScript SDK、CLI、本机网页与人工交接。 |
+| [Memory Access](https://github.com/hutian-ai/memory-access) | 通过 REST、MCP 与 CLI 按资源范围接入记忆后端，保留来源与操作回执。 |
+
+**高频迭代中。** 我会边用边改，接口、配置与交互也会调整；上手前请查看各仓库的 README 与版本说明。
+
 ### 继续探索
 
-**hutian** 是正在推进的长期方向：一个让持续角色与人共同工作的世界。Web 工作台还在本地开发中，当前可体验的公开成果从 Harness Dock 开始。
+**hutian** 是正在推进的长期方向：一个让持续角色与人共同工作的世界。Web 工作台仍在 MVP 迭代中，源码暂未公开；上面的执行、界面、通信与记忆模块已开源，可以独立使用。
 
-我更愿意让项目在真实使用中逐步长大：先解决一个具体问题，留下能用的成果，再继续下一步。也欢迎带着实际使用场景，前往 [Harness Dock](https://github.com/hutian-ai/harness-dock) 或 [文明六模组工坊](https://github.com/civs6-mods)，通过具体项目提供的入口交流。
+我更愿意让项目在真实使用中逐步长大：先解决一个具体问题，留下能用的成果，再继续下一步。也欢迎带着实际使用场景，前往 [hutian](https://github.com/hutian-ai) 或 [文明六模组工坊](https://github.com/civs6-mods)，通过具体项目提供的入口交流。
 
 ---
 
