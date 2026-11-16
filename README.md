@@ -60,7 +60,7 @@ I'm also building these open-source modules at [@hutian-ai](https://github.com/h
 | Project | What it does |
 | :--- | :--- |
 | [Hutian Design](https://github.com/hutian-ai/hutian-design) | Reusable React components and chat UI for agent applications. |
-| [Matrix Agents Chat](https://github.com/hutian-ai/matrix-team-chat) | Matrix-based communication for people and agents, with a TypeScript SDK, CLI, local web client, and human-directed handoff. |
+| [Matrix Agents Chat](https://github.com/hutian-ai/matrix-agents-chat) | Matrix-based communication for people and agents, with a TypeScript SDK, CLI, local web client, and human-directed handoff. |
 | [Memory Access](https://github.com/hutian-ai/memory-access) | Resource-scoped REST, MCP, and CLI access to memory backends, with sources and operation receipts. |
 
 **Actively iterating.** Interfaces, setup, and interactions may change as I use these projects. Check each repository's README and version notes before getting started.

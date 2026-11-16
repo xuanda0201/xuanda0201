@@ -62,7 +62,7 @@
 | 项目 | 用来做什么 |
 | :--- | :--- |
 | [Hutian Design](https://github.com/hutian-ai/hutian-design) | 为 Agent 应用复用 React 基础组件与聊天交互。 |
-| [Matrix Agents Chat](https://github.com/hutian-ai/matrix-team-chat) | 基于 Matrix 连接人与 Agent，提供 TypeScript SDK、CLI、本机网页与人工交接。 |
+| [Matrix Agents Chat](https://github.com/hutian-ai/matrix-agents-chat) | 基于 Matrix 连接人与 Agent，提供 TypeScript SDK、CLI、本机网页与人工交接。 |
 | [Memory Access](https://github.com/hutian-ai/memory-access) | 通过 REST、MCP 与 CLI 按资源范围接入记忆后端，保留来源与操作回执。 |
 
 **高频迭代中。** 我会边用边改，接口、配置与交互也会调整；上手前请查看各仓库的 README 与版本说明。
